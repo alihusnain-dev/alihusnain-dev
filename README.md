@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **cutting-edge web applications** using React, Node.js, and Next.js.
 - 🌱 I’m currently learning **DevOps, System Design & Cloud Engineering**.
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, and MongoDB**.
-- 📫 Reach me at: **alihusnain.dev@gmail.com**
+- 📫 Reach me at: **alihusnainmughal215@gmail.com**
 - 🧠 Fun fact: I believe code should not just work—it should *speak*.
 
 ---
