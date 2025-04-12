@@ -52,7 +52,7 @@
 
 | Project | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
-| **Portfolio Website** | A sleek personal portfolio to showcase my work. | Next.js, TailwindCSS | [Visit →](https://alihusnain.dev) |
+| **Portfolio Website** | A sleek personal portfolio to showcase my work. | Next.js, TailwindCSS | [Visit →](https://portfolio-gamma-lyart-54.vercel.app/) |
 | **Task Manager App** | A fully-featured MERN stack application to manage tasks collaboratively. | React, Node, MongoDB | 🚧 Coming Soon |
 | **Dev Connector API** | A RESTful API for devs to connect and share portfolios. | Express, JWT, MongoDB | [GitHub →](https://github.com/alihusnain-dev/dev-connector-api) |
 
@@ -71,7 +71,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/alihusnain-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:alihusnain.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://alihusnain.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://portfolio-gamma-lyart-54.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
