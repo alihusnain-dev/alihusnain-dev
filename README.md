@@ -2,19 +2,19 @@
 <h3 align="center">🚀 Full Stack Developer | 💻 Software Engineer | 🔍 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+clean+code;Lover+of+open-source+contributions;Transforming+ideas+into+scalable+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+clean+code;Open-source+contributor;Turning+ideas+into+scalable+solutions" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 I'm a Computer Science graduate with a strong foundation in full stack development.
-- 🔭 I’m currently working on **cutting-edge web applications** using React, Node.js, and Next.js.
-- 🌱 I’m currently learning **DevOps, System Design & Cloud Engineering**.
-- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, and MongoDB**.
-- 📫 Reach me at: **alihusnainmughal215@gmail.com**
-- 🧠 Fun fact: I believe code should not just work—it should *speak*.
+- 🎓 Computer Science graduate with a passion for building end-to-end solutions.
+- 🔭 Currently developing **cutting-edge web applications** with React, Node.js & Next.js.
+- 🌱 Expanding my skills in **DevOps, System Design & Cloud Engineering**.
+- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js & MongoDB**.
+- 📫 Reach me at **alihusnainmughal215@gmail.com**
+- 🧩 Fun fact: I believe great code doesn’t just run — it *speaks*.
 
 ---
 
@@ -41,20 +41,20 @@
 
 ## 🧠 Top Skills & Tools
 
-| Frontend        | Backend         | Dev Tools        | Misc              |
-|-----------------|------------------|------------------|-------------------|
-| React, Next.js  | Node.js, Express | VSCode, Git      | REST APIs, JWT    |
-| Tailwind, SCSS  | MongoDB, PostgreSQL | Docker, Postman | Figma, Firebase   |
+| Frontend        | Backend               | Dev Tools                 | Misc                  |
+|-----------------|-----------------------|---------------------------|-----------------------|
+| React, Next.js  | Node.js, Express      | VSCode, Git, GitHub       | REST APIs, JWT, Firebase |
+| TailwindCSS, SCSS | MongoDB, PostgreSQL | Docker, Postman           | Figma, CI/CD          |
 
 ---
 
 ## 🔥 Featured Projects
 
 | Project | Description | Tech Stack | Live |
-|--------|-------------|------------|------|
-| **Portfolio Website** | A sleek personal portfolio to showcase my work. | Next.js, TailwindCSS | [Visit →](https://portfolio-gamma-lyart-54.vercel.app/) |
-| **Task Manager App** | A fully-featured MERN stack application to manage tasks collaboratively. | React, Node, MongoDB | 🚧 Coming Soon |
-| **Dev Connector API** | A RESTful API for devs to connect and share portfolios. | Express, JWT, MongoDB | [GitHub →](https://github.com/alihusnain-dev/dev-connector-api) |
+|---------|--------------|------------|------|
+| **Portfolio Website** | Sleek personal portfolio to showcase my work & skills. | Next.js, TailwindCSS | [Visit →](https://portfolio-gamma-lyart-54.vercel.app/) |
+| **Task Manager App** | MERN stack app for collaborative task management. | React, Node.js, MongoDB | 🚧 Coming Soon |
+| **Dev Connector API** | RESTful API for developers to connect & share portfolios. | Express, JWT, MongoDB | [GitHub →](https://github.com/alihusnain-dev/dev-connector-api) |
 
 ---
 
@@ -69,13 +69,19 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alihusnain-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:alihusnainmughal215@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-gamma-lyart-54.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alihusnain-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:alihusnainmughal215@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-gamma-lyart-54.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
