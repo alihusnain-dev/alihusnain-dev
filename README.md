@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Husnain</h1>
-<h3 align="center">🚀 Full Stack Developer | 💻 Software Engineer | 🔍 Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | 💻 Software Engineer | 🔍 ERPNext Expert</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+clean+code;Open-source+contributor;Turning+ideas+into+scalable+solutions" alt="Typing SVG" />
