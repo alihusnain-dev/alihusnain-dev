@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Husnain</h1>
+<small>Founder & CEO at <b>DevDoz</b/>
 <h3 align="center">🚀 Full Stack Developer | 💻 Software Engineer | 🔍 ERPNext Expert</h3>
 
 <p align="center">
