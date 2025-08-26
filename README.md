@@ -53,7 +53,7 @@
 
 | Project | Description | Tech Stack | Live |
 |---------|--------------|------------|------|
-| **Portfolio Website** | Sleek personal portfolio to showcase my work & skills. | Next.js, TailwindCSS | [Visit →](https://portfolio-gamma-lyart-54.vercel.app/) |
+| **Portfolio Website** | Sleek personal portfolio to showcase my work & skills. | Next.js, TailwindCSS | [Visit →](https://portfolio.devdoz.com/) |
 | **Task Manager App** | MERN stack app for collaborative task management. | React, Node.js, MongoDB | 🚧 Coming Soon |
 | **Dev Connector API** | RESTful API for developers to connect & share portfolios. | Express, JWT, MongoDB | [GitHub →](https://github.com/alihusnain-dev/dev-connector-api) |
 
