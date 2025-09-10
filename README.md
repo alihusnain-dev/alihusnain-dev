@@ -44,7 +44,7 @@
 
 | Frontend        | Backend               | Dev Tools                 | Misc                  |
 |-----------------|-----------------------|---------------------------|-----------------------|
-| React, Next.js  | Node.js, Express      | VSCode, Git, GitHub       | REST APIs, JWT, Firebase |
+| React.js, Next.js  | Node.js, Express      | VSCode, Git, GitHub       | REST APIs, JWT, Firebase |
 | TailwindCSS, SCSS | MongoDB, PostgreSQL | Docker, Postman           | Figma, CI/CD          |
 
 ---
