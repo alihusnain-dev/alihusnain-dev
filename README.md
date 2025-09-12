@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Husnain</h1>
+<h1 align="center">Hi 👋, I'm <b>Ali Husnain</b> </h1>
 <p align="center">Founder & CEO at <b>DevDoz</b/> </p>
 <h3 align="center">🚀 Full Stack Developer | 💻 Software Engineer | 🔍 ERPNext Expert</h3>
 
