@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <b>Ali Husnain</b> </h1>
 <p align="center">Founder & CEO at <b>DevDoz</b/> </p>
-<h3 align="center">🚀 Full Stack Developer | 💻 Software Engineer | 🔍 Frrape ERPNext Expert</h3>
+<h3 align="center">🚀 Full Stack Developer | 💻 Software Engineer | 🔍 Frrape Expert</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+clean+code;Open-source+contributor;Turning+ideas+into+scalable+solutions" alt="Typing SVG" />
