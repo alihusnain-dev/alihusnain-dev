@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <b>Ali Husnain</b> </h1>
-<p align="center">Founder & CEO at <b>DevDoz</b/> </p>
+<p align="center">Founder at <b>DevDoz</b/> </p>
 <h3 align="center">🚀 Full Stack Developer | 💻 Software Engineer | 🔍 Frrape Expert</h3>
 
 <p align="center">
