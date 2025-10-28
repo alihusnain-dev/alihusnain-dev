@@ -16,6 +16,7 @@ Hey there! I’m **Ali Husnain**, a passionate **Full Stack Developer** and **Fo
 - 🔭 Currently developing **modern SaaS platforms and automation systems** using **React, Node.js, Frappe, and Next.js**.  
 - 🧠 Exploring **AI automations, DevOps pipelines, and cloud scalability**.  
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, MongoDB, and ERPNext**.  
+- 🌐 Explore my portfolio → [portfolio.devdoz.com](https://portfolio.devdoz.com)  
 - 📝 Check out my latest insights and tech articles on [DevDoz Blog →](https://devdoz.com/blog)  
 - 📫 Reach me at **alihusnainmughal215@gmail.com**  
 - 🧩 Fun fact: I believe great code doesn’t just run — it *communicates*.  
@@ -73,6 +74,19 @@ Hey there! I’m **Ali Husnain**, a passionate **Full Stack Developer** and **Fo
 
 ---
 
+## ☕ Support My Work  
+
+If you enjoy my open-source contributions or projects, you can support my work by buying me a coffee!  
+Your support helps me stay caffeinated while building more cool things 💻  
+
+<p align="center">
+  <a href="https://buymeacoffee.com/alihusnain" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="200" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+---
+
 ## ✨ GitHub Activity  
 
 <p align="center">
@@ -91,7 +105,10 @@ Hey there! I’m **Ali Husnain**, a passionate **Full Stack Developer** and **Fo
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://portfolio.devdoz.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://devdoz.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://buymeacoffee.com/alihusnain" target="_blank">
     <img src="https://img.shields.io/badge/☕-Buy_me_a_coffee-FFDD00?style=for-the-badge" />
