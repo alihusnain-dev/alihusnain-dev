@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Full Stack Developer | 💻 Software Engineer | 🔍 Frappe & Automation Expert</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+clean+code;Open-source+contributor;Turning+ideas+into+scalable+solutions;Building+next-gen+automation+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Building+scalable+digital+solutions;Automation+and+ERP+systems+developer;Passionate+about+clean+and+elegant+code;Founder+of+DevDoz+🚀" alt="Typing SVG" />
 </p>
 
 ---
