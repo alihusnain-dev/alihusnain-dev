@@ -88,7 +88,7 @@ I specialize in crafting robust, scalable web applications, ERP systems, and int
 If you find my projects, blogs, or open-source work helpful — consider supporting my caffeine-powered coding sessions 💛  
 
 <p align="center">
-  <a href="https://buymeacoffee.com/alihusnain" target="_blank">
+  <a href="https://buymeacoffee.com/alihusnain_dev" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="200" alt="Buy Me a Coffee" />
   </a>
 </p>
