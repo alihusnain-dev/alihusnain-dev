@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm <b>Ali Husnain</b></h1>
+<h1 align="center">Hi 👋, I'm <b>Ali Husnain.</b></h1>
 <p align="center">Founder & Lead Developer at <a href="https://devdoz.com" target="_blank"><b>DevDoz</b></a></p>
 <h3 align="center">🚀 Full Stack Developer | 💻 Software Engineer | 🔍 Frappe & Automation Expert</h3>
 
