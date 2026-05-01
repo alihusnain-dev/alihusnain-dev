@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm <b>Ali Husnain</b></h1>
 <p align="center">Founder & Leader at <a href="https://devdoz.com/" target="_blank"><b>DevDoz</b></a></p>
-<h3 align="center">🚀 Full Stack Developer | 💻 Software Engineer | 🔍 Frappe & Automation Expert</h3>
+<h3 align="center">🔍 Frappe & Automation Expert | 🚀 Full Stack Developer | 💻 Custom Web Developer | AI Automation Stragitiest</h3>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+about+clean+code;Open-source+contributor;Turning+ideas+into+scalable+solutions;Building+next-gen+automation+systems" alt="Typing SVG" />
